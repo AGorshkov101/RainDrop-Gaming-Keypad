@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SerialToArduino.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="layer1Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter Layer Name</Value>
+    </Setting>
+    <Setting Name="layer2Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter Layer Name</Value>
+    </Setting>
+    <Setting Name="layer3Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter Layer Name</Value>
+    </Setting>
+    <Setting Name="layer4Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Enter Layer Name</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

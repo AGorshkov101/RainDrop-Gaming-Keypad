@@ -1,0 +1,9 @@
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\x86\Release\SerialToArduino.exe.config
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\x86\Release\SerialToArduino.exe
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\x86\Release\SerialToArduino.pdb
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\x86\Release\SerialToArduino.csprojAssemblyReference.cache
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\x86\Release\SerialToArduino.Form1.resources
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\x86\Release\SerialToArduino.Properties.Resources.resources
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\x86\Release\SerialToArduino.csproj.GenerateResource.cache
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\x86\Release\SerialToArduino.exe
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\x86\Release\SerialToArduino.pdb

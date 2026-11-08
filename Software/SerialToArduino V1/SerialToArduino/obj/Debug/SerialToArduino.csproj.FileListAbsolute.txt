@@ -1,0 +1,40 @@
+C:\Users\AlexG\source\repos\SerialToArduino\SerialToArduino\bin\Debug\SerialToArduino.exe.config
+C:\Users\AlexG\source\repos\SerialToArduino\SerialToArduino\bin\Debug\SerialToArduino.exe
+C:\Users\AlexG\source\repos\SerialToArduino\SerialToArduino\bin\Debug\SerialToArduino.pdb
+C:\Users\AlexG\source\repos\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.csprojAssemblyReference.cache
+C:\Users\AlexG\source\repos\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.Form1.resources
+C:\Users\AlexG\source\repos\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.Properties.Resources.resources
+C:\Users\AlexG\source\repos\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.csproj.GenerateResource.cache
+C:\Users\AlexG\source\repos\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.exe
+C:\Users\AlexG\source\repos\SerialToArduino\SerialToArduino\obj\Debug\SerialToArduino.pdb
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\SerialToArduino.exe.config
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\SerialToArduino.exe
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\SerialToArduino.pdb
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\Debug\SerialToArduino.Form1.resources
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\Debug\SerialToArduino.Properties.Resources.resources
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\Debug\SerialToArduino.csproj.GenerateResource.cache
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\Debug\SerialToArduino.exe
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\Debug\SerialToArduino.pdb
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\Debug\SerialToArduino.csproj.CoreCompileInputs.cache
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Form1.resx
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Form1.cs
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Form1.Designer.cs
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\obj\Debug\SerialToArduino.csproj.AssemblyReference.cache
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\n40_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\n35_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\n30_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\n25_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\n20_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\n15_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\n10_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\n5_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\45_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\40_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\35_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\30_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\25_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\20_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\15_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\10_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\5_deg.png
+C:\Users\AlexG\source\repos\SerialToArduino V1\SerialToArduino\bin\Debug\Resources\0_deg.png

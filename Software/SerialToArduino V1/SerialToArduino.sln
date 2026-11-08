@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialToArduino", "SerialToArduino\SerialToArduino.csproj", "{4032FF6A-40E1-4B05-9D99-75F9A269172D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KeypadSetup", "KeypadSetup\KeypadSetup.vdproj", "{957311B1-6307-4922-B116-EDD0DE0C61A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Debug|ARM.Build.0 = Debug|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Debug|x64.Build.0 = Debug|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Debug|x86.Build.0 = Debug|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Release|ARM.ActiveCfg = Release|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Release|ARM.Build.0 = Release|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Release|ARM64.Build.0 = Release|Any CPU
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Release|x64.ActiveCfg = Release|x64
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Release|x64.Build.0 = Release|x64
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Release|x86.ActiveCfg = Release|x86
+		{4032FF6A-40E1-4B05-9D99-75F9A269172D}.Release|x86.Build.0 = Release|x86
+		{957311B1-6307-4922-B116-EDD0DE0C61A8}.Debug|Any CPU.ActiveCfg = Debug
+		{957311B1-6307-4922-B116-EDD0DE0C61A8}.Debug|ARM.ActiveCfg = Debug
+		{957311B1-6307-4922-B116-EDD0DE0C61A8}.Debug|ARM64.ActiveCfg = Debug
+		{957311B1-6307-4922-B116-EDD0DE0C61A8}.Debug|x64.ActiveCfg = Debug
+		{957311B1-6307-4922-B116-EDD0DE0C61A8}.Debug|x86.ActiveCfg = Debug
+		{957311B1-6307-4922-B116-EDD0DE0C61A8}.Release|Any CPU.ActiveCfg = Release
+		{957311B1-6307-4922-B116-EDD0DE0C61A8}.Release|ARM.ActiveCfg = Release
+		{957311B1-6307-4922-B116-EDD0DE0C61A8}.Release|ARM64.ActiveCfg = Release
+		{957311B1-6307-4922-B116-EDD0DE0C61A8}.Release|x64.ActiveCfg = Release
+		{957311B1-6307-4922-B116-EDD0DE0C61A8}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E8B9E73-15C9-4558-A0FD-47B870E752F6}
+	EndGlobalSection
+EndGlobal
