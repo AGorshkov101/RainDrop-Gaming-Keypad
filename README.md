@@ -1,5 +1,5 @@
 # RainDrop Keypad
-## Ergonomic Gaming Keypad designed to to help you focus on the game, not finding your keys.
+## Ergonomic Gaming Keypad. Focus on the game, not finding your keys.
 
 <img src="Images/IMG20261107214502.jpg" width="700">
 
