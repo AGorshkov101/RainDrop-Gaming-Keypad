@@ -1,9 +1,9 @@
-# RainDrop-Gaming-Keypad
+# RainDrop Keypad
 ## Ergonomic Gaming Keypad designed to to help you focus on the game, not finding your keys.
 (Image)
 
 Intuitive linear layout, shifted to match your natural finger length
-(Image)
+![Image did not load](Images/IMG20261107213127.jpg)
 
 Curved key configuration to match your fingers natural range of motion and minimize finger stretch 
 (Image)
