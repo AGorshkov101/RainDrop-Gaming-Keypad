@@ -1,31 +1,41 @@
-# RainDrop Keypad
-## Ergonomic Gaming Keypad. Focus on the game, not finding your keys.
+# RainDrop Ergonomic Gaming Keypad
+## Your Controls, Right Where You Need Them.
 
 <img src="Images/IMG20261107214502.jpg" width="700">
 
-Curved key configuration to match your fingers natural range of motion and minimize finger stretch 
+**Curved Key Configuration**\
+Follows the natural range of motion of your fingers to minimize stretching and keep every key within comfortable reach. 
 
 <img src="Images/IMG20260822131359.jpg" width="350"><img src="Images/IMG20260822131403.jpg" width="350">
 
-Intuitive linear layout, shifted to align with finger length
+**Finger-Aligned Key Layout**\
+An intuitive linear layout with keys shifted to match the natural differences in finger length.
 
 <img src="Images/IMG20261107213127.jpg" width="350">
 
-Compact thumb cluster to reduce thumb strain 
+**Compact Thumb Cluster**\
+Strategically positioned thumb keys minimize unnecessary movement and help reduce thumb strain. 
 
 <img src="Images/IMG20260822131439.jpg" width="350">
 
-Angled towards your neutral wrist position for comfort 
+**Natural Wrist Position**\
+Angled to better align with your neutral wrist position for a more comfortable gaming experience.
 
 <img src="Images/IMG20260822131346.jpg" width="350">
 
-Increase your mouses available range of motion for low sensitivity and high accuracy in FPS
+**More Room to Aim**\
+Compact design frees up valuable mouse space, giving you greater range of motion for low-sensitivity aiming and precise FPS gameplay.
 
 <img src="Images/IMG20261107213441.jpg" width="700">
 
-Intuitive PC UI for customizing key layout with 4 profiles stored on board 
+**Intuitive Configuration Software**\
+Easily customize your key layout through a simple PC interface. Save up to four profiles directly to the device.
 
 <img src="Images/ui.PNG" width="700">
 
-Fully open source. Customize to your hearts content 
+**Mechanical Key Switches**\
+Enjoy the satisfying tactile feel and responsive feedback
+
+**Fully Open Source**\
+Make it your own. Explore, modify, customize, and build upon the design with complete access to the source.
 
