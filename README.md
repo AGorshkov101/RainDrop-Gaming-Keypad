@@ -1,7 +1,7 @@
 # RainDrop Ergonomic Gaming Keypad
 ## Your Controls, Right Where You Need Them.
 
-<img src="Images/IMG20261107214502.jpg" width="700">
+<img src="Images/Ergonomic Keypad.png" width="700">
 
 **Curved Key Configuration**\
 Follows the natural range of motion of your fingers to minimize stretching and keep every key within comfortable reach. 
