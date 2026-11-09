@@ -28,13 +28,15 @@ Compact design frees up valuable mouse space, giving you greater range of motion
 
 <img src="Images/IMG20261107213441.jpg" width="700">
 
+**Customizable Mechanical Switches**\
+Choose the mechanical switches that match your preferred feel, tactile feedback, and responsiveness.
+
+<img src="Images/Switch.png" width="350">
+
 **Intuitive Configuration Software**\
 Easily customize your key layout through a simple PC interface. Save up to four profiles directly to the device.
 
 <img src="Images/ui.PNG" width="700">
-
-**Customizable Mechanical Switches**\
-Choose the mechanical switches that match your preferred feel, tactile feedback, and responsiveness.
 
 **Fully Open Source**\
 Make it your own. Explore, modify, customize, and build upon the design with complete access to the source.
