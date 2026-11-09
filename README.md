@@ -14,7 +14,7 @@ An intuitive linear layout with keys shifted to match the natural differences in
 <img src="Images/IMG20261107213127.jpg" width="350">
 
 **Compact Thumb Cluster**\
-Strategically positioned thumb keys minimize unnecessary movement and help reduce thumb strain. 
+Designed to keep thumb keys within natural reach, minimizing excessive stretching to reducing thumb strain. 
 
 <img src="Images/IMG20260822131439.jpg" width="350">
 
@@ -24,7 +24,7 @@ Angled to better align with your neutral wrist position for a more comfortable g
 <img src="Images/IMG20260822131346.jpg" width="350">
 
 **More Room to Aim**\
-Compact design frees up valuable mouse space, giving you greater range of motion for low-sensitivity aiming and precise FPS gameplay.
+Compact design frees up valuable mouse space, giving you greater range of motion for low-sensitivity aiming.
 
 <img src="Images/IMG20261107213441.jpg" width="700">
 
@@ -33,8 +33,8 @@ Easily customize your key layout through a simple PC interface. Save up to four 
 
 <img src="Images/ui.PNG" width="700">
 
-**Mechanical Key Switches**\
-Enjoy the satisfying tactile feel and responsive feedback
+**Customizable Mechanical Switches**\
+Choose the mechanical switches that match your preferred feel, tactile feedback, and responsiveness.
 
 **Fully Open Source**\
 Make it your own. Explore, modify, customize, and build upon the design with complete access to the source.
